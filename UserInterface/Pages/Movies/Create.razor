@@ -1,0 +1,95 @@
+@page "/movies/create/"
+
+<PageTitle>Create Movie</PageTitle>
+
+@using BusinessLogic
+@using Domain
+
+@inject MovieLogic MovieLogic
+@inject CategoryLogic CategoryLogic
+@inject NavigationManager NavigationManager
+
+<style>
+    .error-message {
+        color: red;
+        padding: 10px;
+        border-radius: 5px;
+        margin-top: 10px;
+    }
+</style>
+
+<h1>Create Movie</h1>
+<form>
+    <div class="form-group">
+        <label for="title">Título</label>
+        <input type="text" class="form-control" id="title" @bind="currentMovie.Title" />
+    </div>
+    <div class="form-group">
+        <label for="director">Director</label>
+        <input type="text" class="form-control" id="director" @bind="currentMovie.Director" />
+    </div>
+    <div class="form-group">
+        <label for="releaseYear">Año de lanzamiento</label>
+        <input type="number" class="form-control" id="releaseYear" @bind="currentMovie.ReleaseYear" />
+    </div>
+    <div class="form-group">
+        <label for="Category">Category</label>
+        
+        <select class="form-control" value="@selectedCategoryId" @onchange="OnChangeCategory" >
+            <option disable selected value="">Select Category</option>
+            @foreach (var category in _categories){
+                <option value="@category.Id" selected="@(category.Id==selectedCategoryId)" >
+                    @category.Name
+                </option>
+            }
+        </select>
+    
+    </div>
+
+    <button type="button" class="btn btn-primary" @onclick="SaveChanges">Guardar cambios</button>
+    <a href="/movies">Cancelar</a>
+
+</form>
+
+<div class="error-message">@errorMessage</div>
+
+
+
+
+@code {
+    private Movie? currentMovie;
+    
+    private List<Category>? _categories;
+    
+    private int selectedCategoryId;
+    
+    private string errorMessage;
+
+
+    protected override void OnInitialized()
+    {
+        currentMovie = new Movie();
+        currentMovie.ReleaseYear= DateTime.Now.Year;
+        _categories = CategoryLogic.GetAll().ToList();
+    }
+
+    private void SaveChanges()
+    {
+        try
+        {
+            MovieLogic.AddMovie(currentMovie);
+            NavigationManager.NavigateTo("/movies");
+        }
+        catch (Exception e)
+        {
+            errorMessage = e.Message;
+        }
+        
+    }
+    
+    private void OnChangeCategory(ChangeEventArgs e){
+        int catId = int.Parse(e.Value.ToString());
+        currentMovie.Category = CategoryLogic.FindById(catId);
+    }
+
+}

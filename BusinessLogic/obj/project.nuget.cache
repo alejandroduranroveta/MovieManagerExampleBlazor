@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Okw4F+dvH+IweOtbfJk6niF9hGgJF1Uw8jwZ5ue12ZdKWUm0B6mcc4VF7m+X7IuCt9ClLqFz4ZfqOxI7Elydmg==",
+  "success": true,
+  "projectFilePath": "/Users/marioalejandroduran/Downloads/MovieManagerExampleBlazor/BusinessLogic/BusinessLogic.csproj",
+  "expectedPackageFiles": [
+    "/Users/marioalejandroduran/.nuget/packages/microsoft.netcore.app.ref/6.0.28/microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "/Users/marioalejandroduran/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.28/microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

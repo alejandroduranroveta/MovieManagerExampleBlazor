@@ -1,0 +1,214 @@
+/Users/guillermoareosa/Documents/GitHub/ASP-tutorials/AWS/6. DynamicHosting/MovieManager/Clase/1/MovieManager_v1/UserInterface/bin/Debug/net6.0/appsettings.Development.json
+/Users/guillermoareosa/Documents/GitHub/ASP-tutorials/AWS/6. DynamicHosting/MovieManager/Clase/1/MovieManager_v1/UserInterface/bin/Debug/net6.0/appsettings.json
+/Users/guillermoareosa/Documents/GitHub/ASP-tutorials/AWS/6. DynamicHosting/MovieManager/Clase/1/MovieManager_v1/UserInterface/bin/Debug/net6.0/UserInterface.staticwebassets.runtime.json
+/Users/guillermoareosa/Documents/GitHub/ASP-tutorials/AWS/6. DynamicHosting/MovieManager/Clase/1/MovieManager_v1/UserInterface/bin/Debug/net6.0/UserInterface
+/Users/guillermoareosa/Documents/GitHub/ASP-tutorials/AWS/6. DynamicHosting/MovieManager/Clase/1/MovieManager_v1/UserInterface/bin/Debug/net6.0/UserInterface.deps.json
+/Users/guillermoareosa/Documents/GitHub/ASP-tutorials/AWS/6. DynamicHosting/MovieManager/Clase/1/MovieManager_v1/UserInterface/bin/Debug/net6.0/UserInterface.runtimeconfig.json
+/Users/guillermoareosa/Documents/GitHub/ASP-tutorials/AWS/6. DynamicHosting/MovieManager/Clase/1/MovieManager_v1/UserInterface/bin/Debug/net6.0/UserInterface.dll
+/Users/guillermoareosa/Documents/GitHub/ASP-tutorials/AWS/6. DynamicHosting/MovieManager/Clase/1/MovieManager_v1/UserInterface/bin/Debug/net6.0/UserInterface.pdb
+/Users/guillermoareosa/Documents/GitHub/ASP-tutorials/AWS/6. DynamicHosting/MovieManager/Clase/1/MovieManager_v1/UserInterface/obj/Debug/net6.0/UserInterface.csproj.AssemblyReference.cache
+/Users/guillermoareosa/Documents/GitHub/ASP-tutorials/AWS/6. DynamicHosting/MovieManager/Clase/1/MovieManager_v1/UserInterface/obj/Debug/net6.0/UserInterface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guillermoareosa/Documents/GitHub/ASP-tutorials/AWS/6. DynamicHosting/MovieManager/Clase/1/MovieManager_v1/UserInterface/obj/Debug/net6.0/UserInterface.AssemblyInfoInputs.cache
+/Users/guillermoareosa/Documents/GitHub/ASP-tutorials/AWS/6. DynamicHosting/MovieManager/Clase/1/MovieManager_v1/UserInterface/obj/Debug/net6.0/UserInterface.AssemblyInfo.cs
+/Users/guillermoareosa/Documents/GitHub/ASP-tutorials/AWS/6. DynamicHosting/MovieManager/Clase/1/MovieManager_v1/UserInterface/obj/Debug/net6.0/UserInterface.csproj.CoreCompileInputs.cache
+/Users/guillermoareosa/Documents/GitHub/ASP-tutorials/AWS/6. DynamicHosting/MovieManager/Clase/1/MovieManager_v1/UserInterface/obj/Debug/net6.0/UserInterface.MvcApplicationPartsAssemblyInfo.cache
+/Users/guillermoareosa/Documents/GitHub/ASP-tutorials/AWS/6. DynamicHosting/MovieManager/Clase/1/MovieManager_v1/UserInterface/obj/Debug/net6.0/UserInterface.RazorAssemblyInfo.cache
+/Users/guillermoareosa/Documents/GitHub/ASP-tutorials/AWS/6. DynamicHosting/MovieManager/Clase/1/MovieManager_v1/UserInterface/obj/Debug/net6.0/UserInterface.RazorAssemblyInfo.cs
+/Users/guillermoareosa/Documents/GitHub/ASP-tutorials/AWS/6. DynamicHosting/MovieManager/Clase/1/MovieManager_v1/UserInterface/obj/Debug/net6.0/staticwebassets.build.json
+/Users/guillermoareosa/Documents/GitHub/ASP-tutorials/AWS/6. DynamicHosting/MovieManager/Clase/1/MovieManager_v1/UserInterface/obj/Debug/net6.0/staticwebassets.development.json
+/Users/guillermoareosa/Documents/GitHub/ASP-tutorials/AWS/6. DynamicHosting/MovieManager/Clase/1/MovieManager_v1/UserInterface/obj/Debug/net6.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/Users/guillermoareosa/Documents/GitHub/ASP-tutorials/AWS/6. DynamicHosting/MovieManager/Clase/1/MovieManager_v1/UserInterface/obj/Debug/net6.0/scopedcss/Shared/NavMenu.razor.rz.scp.css
+/Users/guillermoareosa/Documents/GitHub/ASP-tutorials/AWS/6. DynamicHosting/MovieManager/Clase/1/MovieManager_v1/UserInterface/obj/Debug/net6.0/scopedcss/bundle/UserInterface.styles.css
+/Users/guillermoareosa/Documents/GitHub/ASP-tutorials/AWS/6. DynamicHosting/MovieManager/Clase/1/MovieManager_v1/UserInterface/obj/Debug/net6.0/scopedcss/projectbundle/UserInterface.bundle.scp.css
+/Users/guillermoareosa/Documents/GitHub/ASP-tutorials/AWS/6. DynamicHosting/MovieManager/Clase/1/MovieManager_v1/UserInterface/obj/Debug/net6.0/UserInterface.dll
+/Users/guillermoareosa/Documents/GitHub/ASP-tutorials/AWS/6. DynamicHosting/MovieManager/Clase/1/MovieManager_v1/UserInterface/obj/Debug/net6.0/refint/UserInterface.dll
+/Users/guillermoareosa/Documents/GitHub/ASP-tutorials/AWS/6. DynamicHosting/MovieManager/Clase/1/MovieManager_v1/UserInterface/obj/Debug/net6.0/UserInterface.pdb
+/Users/guillermoareosa/Documents/GitHub/ASP-tutorials/AWS/6. DynamicHosting/MovieManager/Clase/1/MovieManager_v1/UserInterface/obj/Debug/net6.0/UserInterface.genruntimeconfig.cache
+/Users/guillermoareosa/Documents/GitHub/ASP-tutorials/AWS/6. DynamicHosting/MovieManager/Clase/1/MovieManager_v1/UserInterface/obj/Debug/net6.0/ref/UserInterface.dll
+/Users/guillermoareosa/Documents/GitHub/ASP-tutorials/AWS/6. DynamicHosting/MovieManager/Clase/1/MovieManager_v1/UserInterface/bin/Debug/net6.0/BusinessLogic.dll
+/Users/guillermoareosa/Documents/GitHub/ASP-tutorials/AWS/6. DynamicHosting/MovieManager/Clase/1/MovieManager_v1/UserInterface/bin/Debug/net6.0/Domain.dll
+/Users/guillermoareosa/Documents/GitHub/ASP-tutorials/AWS/6. DynamicHosting/MovieManager/Clase/1/MovieManager_v1/UserInterface/bin/Debug/net6.0/Repository.dll
+/Users/guillermoareosa/Documents/GitHub/ASP-tutorials/AWS/6. DynamicHosting/MovieManager/Clase/1/MovieManager_v1/UserInterface/bin/Debug/net6.0/BusinessLogic.pdb
+/Users/guillermoareosa/Documents/GitHub/ASP-tutorials/AWS/6. DynamicHosting/MovieManager/Clase/1/MovieManager_v1/UserInterface/bin/Debug/net6.0/Domain.pdb
+/Users/guillermoareosa/Documents/GitHub/ASP-tutorials/AWS/6. DynamicHosting/MovieManager/Clase/1/MovieManager_v1/UserInterface/bin/Debug/net6.0/Repository.pdb
+/Users/guillermoareosa/Documents/GitHub/ASP-tutorials/AWS/6. DynamicHosting/MovieManager/Clase/1/MovieManager_v1/UserInterface/obj/Debug/net6.0/UserInterface.csproj.CopyComplete
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v1/UserInterface/bin/Debug/net6.0/appsettings.Development.json
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v1/UserInterface/bin/Debug/net6.0/appsettings.json
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v1/UserInterface/bin/Debug/net6.0/UserInterface.staticwebassets.runtime.json
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v1/UserInterface/bin/Debug/net6.0/UserInterface
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v1/UserInterface/bin/Debug/net6.0/UserInterface.deps.json
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v1/UserInterface/bin/Debug/net6.0/UserInterface.runtimeconfig.json
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v1/UserInterface/bin/Debug/net6.0/UserInterface.dll
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v1/UserInterface/bin/Debug/net6.0/UserInterface.pdb
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v1/UserInterface/bin/Debug/net6.0/BusinessLogic.dll
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v1/UserInterface/bin/Debug/net6.0/Domain.dll
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v1/UserInterface/bin/Debug/net6.0/Repository.dll
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v1/UserInterface/bin/Debug/net6.0/BusinessLogic.pdb
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v1/UserInterface/bin/Debug/net6.0/Domain.pdb
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v1/UserInterface/bin/Debug/net6.0/Repository.pdb
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v1/UserInterface/obj/Debug/net6.0/UserInterface.csproj.AssemblyReference.cache
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v1/UserInterface/obj/Debug/net6.0/UserInterface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v1/UserInterface/obj/Debug/net6.0/UserInterface.AssemblyInfoInputs.cache
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v1/UserInterface/obj/Debug/net6.0/UserInterface.AssemblyInfo.cs
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v1/UserInterface/obj/Debug/net6.0/UserInterface.csproj.CoreCompileInputs.cache
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v1/UserInterface/obj/Debug/net6.0/UserInterface.MvcApplicationPartsAssemblyInfo.cache
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v1/UserInterface/obj/Debug/net6.0/UserInterface.RazorAssemblyInfo.cache
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v1/UserInterface/obj/Debug/net6.0/UserInterface.RazorAssemblyInfo.cs
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v1/UserInterface/obj/Debug/net6.0/staticwebassets.build.json
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v1/UserInterface/obj/Debug/net6.0/staticwebassets.development.json
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v1/UserInterface/obj/Debug/net6.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v1/UserInterface/obj/Debug/net6.0/scopedcss/Shared/NavMenu.razor.rz.scp.css
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v1/UserInterface/obj/Debug/net6.0/scopedcss/bundle/UserInterface.styles.css
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v1/UserInterface/obj/Debug/net6.0/scopedcss/projectbundle/UserInterface.bundle.scp.css
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v1/UserInterface/obj/Debug/net6.0/UserInterface.csproj.CopyComplete
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v1/UserInterface/obj/Debug/net6.0/UserInterface.dll
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v1/UserInterface/obj/Debug/net6.0/refint/UserInterface.dll
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v1/UserInterface/obj/Debug/net6.0/UserInterface.pdb
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v1/UserInterface/obj/Debug/net6.0/UserInterface.genruntimeconfig.cache
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v1/UserInterface/obj/Debug/net6.0/ref/UserInterface.dll
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v2-test/UserInterface/bin/Debug/net6.0/appsettings.Development.json
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v2-test/UserInterface/bin/Debug/net6.0/appsettings.json
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v2-test/UserInterface/bin/Debug/net6.0/UserInterface.staticwebassets.runtime.json
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v2-test/UserInterface/bin/Debug/net6.0/UserInterface
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v2-test/UserInterface/bin/Debug/net6.0/UserInterface.deps.json
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v2-test/UserInterface/bin/Debug/net6.0/UserInterface.runtimeconfig.json
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v2-test/UserInterface/bin/Debug/net6.0/UserInterface.dll
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v2-test/UserInterface/bin/Debug/net6.0/UserInterface.pdb
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v2-test/UserInterface/bin/Debug/net6.0/BusinessLogic.dll
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v2-test/UserInterface/bin/Debug/net6.0/Domain.dll
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v2-test/UserInterface/bin/Debug/net6.0/Repository.dll
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v2-test/UserInterface/bin/Debug/net6.0/BusinessLogic.pdb
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v2-test/UserInterface/bin/Debug/net6.0/Domain.pdb
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v2-test/UserInterface/bin/Debug/net6.0/Repository.pdb
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v2-test/UserInterface/obj/Debug/net6.0/UserInterface.csproj.AssemblyReference.cache
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v2-test/UserInterface/obj/Debug/net6.0/UserInterface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v2-test/UserInterface/obj/Debug/net6.0/UserInterface.AssemblyInfoInputs.cache
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v2-test/UserInterface/obj/Debug/net6.0/UserInterface.AssemblyInfo.cs
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v2-test/UserInterface/obj/Debug/net6.0/UserInterface.csproj.CoreCompileInputs.cache
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v2-test/UserInterface/obj/Debug/net6.0/UserInterface.MvcApplicationPartsAssemblyInfo.cache
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v2-test/UserInterface/obj/Debug/net6.0/UserInterface.RazorAssemblyInfo.cache
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v2-test/UserInterface/obj/Debug/net6.0/UserInterface.RazorAssemblyInfo.cs
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v2-test/UserInterface/obj/Debug/net6.0/staticwebassets.build.json
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v2-test/UserInterface/obj/Debug/net6.0/staticwebassets.development.json
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v2-test/UserInterface/obj/Debug/net6.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v2-test/UserInterface/obj/Debug/net6.0/scopedcss/Shared/NavMenu.razor.rz.scp.css
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v2-test/UserInterface/obj/Debug/net6.0/scopedcss/bundle/UserInterface.styles.css
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v2-test/UserInterface/obj/Debug/net6.0/scopedcss/projectbundle/UserInterface.bundle.scp.css
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v2-test/UserInterface/obj/Debug/net6.0/UserInterface.csproj.CopyComplete
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v2-test/UserInterface/obj/Debug/net6.0/UserInterface.dll
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v2-test/UserInterface/obj/Debug/net6.0/refint/UserInterface.dll
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v2-test/UserInterface/obj/Debug/net6.0/UserInterface.pdb
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v2-test/UserInterface/obj/Debug/net6.0/UserInterface.genruntimeconfig.cache
+/Users/guillermoareosa/Desktop/Clase 19 sept/Clase19sept-v2-test/UserInterface/obj/Debug/net6.0/ref/UserInterface.dll
+/Users/pablo/Downloads/ORT/DA1/2024.1/Clase19sept-v2-test/UserInterface/bin/Debug/net6.0/appsettings.Development.json
+/Users/pablo/Downloads/ORT/DA1/2024.1/Clase19sept-v2-test/UserInterface/bin/Debug/net6.0/appsettings.json
+/Users/pablo/Downloads/ORT/DA1/2024.1/Clase19sept-v2-test/UserInterface/bin/Debug/net6.0/UserInterface.staticwebassets.runtime.json
+/Users/pablo/Downloads/ORT/DA1/2024.1/Clase19sept-v2-test/UserInterface/bin/Debug/net6.0/UserInterface
+/Users/pablo/Downloads/ORT/DA1/2024.1/Clase19sept-v2-test/UserInterface/bin/Debug/net6.0/UserInterface.deps.json
+/Users/pablo/Downloads/ORT/DA1/2024.1/Clase19sept-v2-test/UserInterface/bin/Debug/net6.0/UserInterface.runtimeconfig.json
+/Users/pablo/Downloads/ORT/DA1/2024.1/Clase19sept-v2-test/UserInterface/bin/Debug/net6.0/UserInterface.dll
+/Users/pablo/Downloads/ORT/DA1/2024.1/Clase19sept-v2-test/UserInterface/bin/Debug/net6.0/UserInterface.pdb
+/Users/pablo/Downloads/ORT/DA1/2024.1/Clase19sept-v2-test/UserInterface/bin/Debug/net6.0/BusinessLogic.dll
+/Users/pablo/Downloads/ORT/DA1/2024.1/Clase19sept-v2-test/UserInterface/bin/Debug/net6.0/Domain.dll
+/Users/pablo/Downloads/ORT/DA1/2024.1/Clase19sept-v2-test/UserInterface/bin/Debug/net6.0/Repository.dll
+/Users/pablo/Downloads/ORT/DA1/2024.1/Clase19sept-v2-test/UserInterface/bin/Debug/net6.0/BusinessLogic.pdb
+/Users/pablo/Downloads/ORT/DA1/2024.1/Clase19sept-v2-test/UserInterface/bin/Debug/net6.0/Domain.pdb
+/Users/pablo/Downloads/ORT/DA1/2024.1/Clase19sept-v2-test/UserInterface/bin/Debug/net6.0/Repository.pdb
+/Users/pablo/Downloads/ORT/DA1/2024.1/Clase19sept-v2-test/UserInterface/obj/Debug/net6.0/UserInterface.csproj.AssemblyReference.cache
+/Users/pablo/Downloads/ORT/DA1/2024.1/Clase19sept-v2-test/UserInterface/obj/Debug/net6.0/UserInterface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pablo/Downloads/ORT/DA1/2024.1/Clase19sept-v2-test/UserInterface/obj/Debug/net6.0/UserInterface.AssemblyInfoInputs.cache
+/Users/pablo/Downloads/ORT/DA1/2024.1/Clase19sept-v2-test/UserInterface/obj/Debug/net6.0/UserInterface.AssemblyInfo.cs
+/Users/pablo/Downloads/ORT/DA1/2024.1/Clase19sept-v2-test/UserInterface/obj/Debug/net6.0/UserInterface.csproj.CoreCompileInputs.cache
+/Users/pablo/Downloads/ORT/DA1/2024.1/Clase19sept-v2-test/UserInterface/obj/Debug/net6.0/UserInterface.MvcApplicationPartsAssemblyInfo.cache
+/Users/pablo/Downloads/ORT/DA1/2024.1/Clase19sept-v2-test/UserInterface/obj/Debug/net6.0/UserInterface.RazorAssemblyInfo.cache
+/Users/pablo/Downloads/ORT/DA1/2024.1/Clase19sept-v2-test/UserInterface/obj/Debug/net6.0/UserInterface.RazorAssemblyInfo.cs
+/Users/pablo/Downloads/ORT/DA1/2024.1/Clase19sept-v2-test/UserInterface/obj/Debug/net6.0/staticwebassets.build.json
+/Users/pablo/Downloads/ORT/DA1/2024.1/Clase19sept-v2-test/UserInterface/obj/Debug/net6.0/staticwebassets.development.json
+/Users/pablo/Downloads/ORT/DA1/2024.1/Clase19sept-v2-test/UserInterface/obj/Debug/net6.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/Users/pablo/Downloads/ORT/DA1/2024.1/Clase19sept-v2-test/UserInterface/obj/Debug/net6.0/scopedcss/Shared/NavMenu.razor.rz.scp.css
+/Users/pablo/Downloads/ORT/DA1/2024.1/Clase19sept-v2-test/UserInterface/obj/Debug/net6.0/scopedcss/bundle/UserInterface.styles.css
+/Users/pablo/Downloads/ORT/DA1/2024.1/Clase19sept-v2-test/UserInterface/obj/Debug/net6.0/scopedcss/projectbundle/UserInterface.bundle.scp.css
+/Users/pablo/Downloads/ORT/DA1/2024.1/Clase19sept-v2-test/UserInterface/obj/Debug/net6.0/UserInterface.csproj.CopyComplete
+/Users/pablo/Downloads/ORT/DA1/2024.1/Clase19sept-v2-test/UserInterface/obj/Debug/net6.0/UserInterface.dll
+/Users/pablo/Downloads/ORT/DA1/2024.1/Clase19sept-v2-test/UserInterface/obj/Debug/net6.0/UserInterface.pdb
+/Users/pablo/Downloads/ORT/DA1/2024.1/Clase19sept-v2-test/UserInterface/obj/Debug/net6.0/UserInterface.genruntimeconfig.cache
+/Users/pablo/Downloads/ORT/DA1/2024.1/Clase19sept-v2-test/UserInterface/obj/Debug/net6.0/ref/UserInterface.dll
+/Users/pablo/Downloads/ORT/DA1/2024.1/Clase19sept-v2-test/UserInterface/bin/Debug/net6.0/ref/UserInterface.dll
+/Users/marioalejandroduran/Downloads/Clase19sept-v2/UserInterface/bin/Debug/net6.0/appsettings.Development.json
+/Users/marioalejandroduran/Downloads/Clase19sept-v2/UserInterface/bin/Debug/net6.0/appsettings.json
+/Users/marioalejandroduran/Downloads/Clase19sept-v2/UserInterface/bin/Debug/net6.0/UserInterface.staticwebassets.runtime.json
+/Users/marioalejandroduran/Downloads/Clase19sept-v2/UserInterface/bin/Debug/net6.0/UserInterface
+/Users/marioalejandroduran/Downloads/Clase19sept-v2/UserInterface/bin/Debug/net6.0/UserInterface.deps.json
+/Users/marioalejandroduran/Downloads/Clase19sept-v2/UserInterface/bin/Debug/net6.0/UserInterface.runtimeconfig.json
+/Users/marioalejandroduran/Downloads/Clase19sept-v2/UserInterface/bin/Debug/net6.0/UserInterface.dll
+/Users/marioalejandroduran/Downloads/Clase19sept-v2/UserInterface/bin/Debug/net6.0/UserInterface.pdb
+/Users/marioalejandroduran/Downloads/Clase19sept-v2/UserInterface/bin/Debug/net6.0/BusinessLogic.dll
+/Users/marioalejandroduran/Downloads/Clase19sept-v2/UserInterface/bin/Debug/net6.0/Domain.dll
+/Users/marioalejandroduran/Downloads/Clase19sept-v2/UserInterface/bin/Debug/net6.0/Repository.dll
+/Users/marioalejandroduran/Downloads/Clase19sept-v2/UserInterface/bin/Debug/net6.0/BusinessLogic.pdb
+/Users/marioalejandroduran/Downloads/Clase19sept-v2/UserInterface/bin/Debug/net6.0/Domain.pdb
+/Users/marioalejandroduran/Downloads/Clase19sept-v2/UserInterface/bin/Debug/net6.0/Repository.pdb
+/Users/marioalejandroduran/Downloads/Clase19sept-v2/UserInterface/obj/Debug/net6.0/UserInterface.csproj.AssemblyReference.cache
+/Users/marioalejandroduran/Downloads/Clase19sept-v2/UserInterface/obj/Debug/net6.0/UserInterface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marioalejandroduran/Downloads/Clase19sept-v2/UserInterface/obj/Debug/net6.0/UserInterface.AssemblyInfoInputs.cache
+/Users/marioalejandroduran/Downloads/Clase19sept-v2/UserInterface/obj/Debug/net6.0/UserInterface.AssemblyInfo.cs
+/Users/marioalejandroduran/Downloads/Clase19sept-v2/UserInterface/obj/Debug/net6.0/UserInterface.csproj.CoreCompileInputs.cache
+/Users/marioalejandroduran/Downloads/Clase19sept-v2/UserInterface/obj/Debug/net6.0/UserInterface.MvcApplicationPartsAssemblyInfo.cache
+/Users/marioalejandroduran/Downloads/Clase19sept-v2/UserInterface/obj/Debug/net6.0/UserInterface.RazorAssemblyInfo.cache
+/Users/marioalejandroduran/Downloads/Clase19sept-v2/UserInterface/obj/Debug/net6.0/UserInterface.RazorAssemblyInfo.cs
+/Users/marioalejandroduran/Downloads/Clase19sept-v2/UserInterface/obj/Debug/net6.0/staticwebassets.build.json
+/Users/marioalejandroduran/Downloads/Clase19sept-v2/UserInterface/obj/Debug/net6.0/staticwebassets.development.json
+/Users/marioalejandroduran/Downloads/Clase19sept-v2/UserInterface/obj/Debug/net6.0/staticwebassets/msbuild.UserInterface.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/marioalejandroduran/Downloads/Clase19sept-v2/UserInterface/obj/Debug/net6.0/staticwebassets/msbuild.build.UserInterface.props
+/Users/marioalejandroduran/Downloads/Clase19sept-v2/UserInterface/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.UserInterface.props
+/Users/marioalejandroduran/Downloads/Clase19sept-v2/UserInterface/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.UserInterface.props
+/Users/marioalejandroduran/Downloads/Clase19sept-v2/UserInterface/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/marioalejandroduran/Downloads/Clase19sept-v2/UserInterface/obj/Debug/net6.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/Users/marioalejandroduran/Downloads/Clase19sept-v2/UserInterface/obj/Debug/net6.0/scopedcss/Shared/NavMenu.razor.rz.scp.css
+/Users/marioalejandroduran/Downloads/Clase19sept-v2/UserInterface/obj/Debug/net6.0/scopedcss/bundle/UserInterface.styles.css
+/Users/marioalejandroduran/Downloads/Clase19sept-v2/UserInterface/obj/Debug/net6.0/scopedcss/projectbundle/UserInterface.bundle.scp.css
+/Users/marioalejandroduran/Downloads/Clase19sept-v2/UserInterface/obj/Debug/net6.0/UserInte.9C7395B8.Up2Date
+/Users/marioalejandroduran/Downloads/Clase19sept-v2/UserInterface/obj/Debug/net6.0/UserInterface.dll
+/Users/marioalejandroduran/Downloads/Clase19sept-v2/UserInterface/obj/Debug/net6.0/refint/UserInterface.dll
+/Users/marioalejandroduran/Downloads/Clase19sept-v2/UserInterface/obj/Debug/net6.0/UserInterface.pdb
+/Users/marioalejandroduran/Downloads/Clase19sept-v2/UserInterface/obj/Debug/net6.0/UserInterface.genruntimeconfig.cache
+/Users/marioalejandroduran/Downloads/Clase19sept-v2/UserInterface/obj/Debug/net6.0/ref/UserInterface.dll
+/Users/marioalejandroduran/Downloads/MovieManagerExampleBlazor/UserInterface/bin/Debug/net6.0/appsettings.Development.json
+/Users/marioalejandroduran/Downloads/MovieManagerExampleBlazor/UserInterface/bin/Debug/net6.0/appsettings.json
+/Users/marioalejandroduran/Downloads/MovieManagerExampleBlazor/UserInterface/bin/Debug/net6.0/UserInterface.staticwebassets.runtime.json
+/Users/marioalejandroduran/Downloads/MovieManagerExampleBlazor/UserInterface/bin/Debug/net6.0/UserInterface
+/Users/marioalejandroduran/Downloads/MovieManagerExampleBlazor/UserInterface/bin/Debug/net6.0/UserInterface.deps.json
+/Users/marioalejandroduran/Downloads/MovieManagerExampleBlazor/UserInterface/bin/Debug/net6.0/UserInterface.runtimeconfig.json
+/Users/marioalejandroduran/Downloads/MovieManagerExampleBlazor/UserInterface/bin/Debug/net6.0/UserInterface.dll
+/Users/marioalejandroduran/Downloads/MovieManagerExampleBlazor/UserInterface/bin/Debug/net6.0/UserInterface.pdb
+/Users/marioalejandroduran/Downloads/MovieManagerExampleBlazor/UserInterface/bin/Debug/net6.0/BusinessLogic.dll
+/Users/marioalejandroduran/Downloads/MovieManagerExampleBlazor/UserInterface/bin/Debug/net6.0/Domain.dll
+/Users/marioalejandroduran/Downloads/MovieManagerExampleBlazor/UserInterface/bin/Debug/net6.0/Repository.dll
+/Users/marioalejandroduran/Downloads/MovieManagerExampleBlazor/UserInterface/bin/Debug/net6.0/BusinessLogic.pdb
+/Users/marioalejandroduran/Downloads/MovieManagerExampleBlazor/UserInterface/bin/Debug/net6.0/Domain.pdb
+/Users/marioalejandroduran/Downloads/MovieManagerExampleBlazor/UserInterface/bin/Debug/net6.0/Repository.pdb
+/Users/marioalejandroduran/Downloads/MovieManagerExampleBlazor/UserInterface/obj/Debug/net6.0/UserInterface.csproj.AssemblyReference.cache
+/Users/marioalejandroduran/Downloads/MovieManagerExampleBlazor/UserInterface/obj/Debug/net6.0/UserInterface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marioalejandroduran/Downloads/MovieManagerExampleBlazor/UserInterface/obj/Debug/net6.0/UserInterface.AssemblyInfoInputs.cache
+/Users/marioalejandroduran/Downloads/MovieManagerExampleBlazor/UserInterface/obj/Debug/net6.0/UserInterface.AssemblyInfo.cs
+/Users/marioalejandroduran/Downloads/MovieManagerExampleBlazor/UserInterface/obj/Debug/net6.0/UserInterface.csproj.CoreCompileInputs.cache
+/Users/marioalejandroduran/Downloads/MovieManagerExampleBlazor/UserInterface/obj/Debug/net6.0/UserInterface.MvcApplicationPartsAssemblyInfo.cache
+/Users/marioalejandroduran/Downloads/MovieManagerExampleBlazor/UserInterface/obj/Debug/net6.0/UserInterface.RazorAssemblyInfo.cache
+/Users/marioalejandroduran/Downloads/MovieManagerExampleBlazor/UserInterface/obj/Debug/net6.0/UserInterface.RazorAssemblyInfo.cs
+/Users/marioalejandroduran/Downloads/MovieManagerExampleBlazor/UserInterface/obj/Debug/net6.0/staticwebassets.build.json
+/Users/marioalejandroduran/Downloads/MovieManagerExampleBlazor/UserInterface/obj/Debug/net6.0/staticwebassets.development.json
+/Users/marioalejandroduran/Downloads/MovieManagerExampleBlazor/UserInterface/obj/Debug/net6.0/staticwebassets/msbuild.UserInterface.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/marioalejandroduran/Downloads/MovieManagerExampleBlazor/UserInterface/obj/Debug/net6.0/staticwebassets/msbuild.build.UserInterface.props
+/Users/marioalejandroduran/Downloads/MovieManagerExampleBlazor/UserInterface/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.UserInterface.props
+/Users/marioalejandroduran/Downloads/MovieManagerExampleBlazor/UserInterface/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.UserInterface.props
+/Users/marioalejandroduran/Downloads/MovieManagerExampleBlazor/UserInterface/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/marioalejandroduran/Downloads/MovieManagerExampleBlazor/UserInterface/obj/Debug/net6.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/Users/marioalejandroduran/Downloads/MovieManagerExampleBlazor/UserInterface/obj/Debug/net6.0/scopedcss/Shared/NavMenu.razor.rz.scp.css
+/Users/marioalejandroduran/Downloads/MovieManagerExampleBlazor/UserInterface/obj/Debug/net6.0/scopedcss/bundle/UserInterface.styles.css
+/Users/marioalejandroduran/Downloads/MovieManagerExampleBlazor/UserInterface/obj/Debug/net6.0/scopedcss/projectbundle/UserInterface.bundle.scp.css
+/Users/marioalejandroduran/Downloads/MovieManagerExampleBlazor/UserInterface/obj/Debug/net6.0/UserInte.9C7395B8.Up2Date
+/Users/marioalejandroduran/Downloads/MovieManagerExampleBlazor/UserInterface/obj/Debug/net6.0/UserInterface.dll
+/Users/marioalejandroduran/Downloads/MovieManagerExampleBlazor/UserInterface/obj/Debug/net6.0/refint/UserInterface.dll
+/Users/marioalejandroduran/Downloads/MovieManagerExampleBlazor/UserInterface/obj/Debug/net6.0/UserInterface.pdb
+/Users/marioalejandroduran/Downloads/MovieManagerExampleBlazor/UserInterface/obj/Debug/net6.0/UserInterface.genruntimeconfig.cache
+/Users/marioalejandroduran/Downloads/MovieManagerExampleBlazor/UserInterface/obj/Debug/net6.0/ref/UserInterface.dll

@@ -1,0 +1,57 @@
+@page "/actors"
+
+<PageTitle>Actors List</PageTitle>
+
+@using BusinessLogic
+@inject ActorLogic ActorLogic
+
+@using Domain
+
+<h1>
+    Actor List
+    <a href="/actors/create"  class="btn btn-success btn-sm" style="float: right;margin-right: 40px;">Create +</a>
+</h1>
+
+<table class="table">
+    <thead>
+    <tr>
+        <th>Name</th>
+        <th>Bio</th>
+        <th>Birth Date</th>
+        <th>Acciones</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var actor in _actorsList){
+        <tr>
+            <td>@actor.Name</td>
+            <td>@actor.Bio</td>
+            <td>@actor.BirthDate</td>
+            <td>
+                <a class="btn btn-success btn-sm" href="actors/@actor.Id/edit/">Editar</a>
+                <button class="btn btn-danger btn-sm" @onclick="(() => DeleteMovie(actor.Id))" >Eliminar</button>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>
+
+@code{
+
+    private List<Actor>? _actorsList = new List<Actor>();
+
+    protected override void OnInitialized()
+    {
+        _actorsList = ActorLogic.GetAll().ToList();
+    }
+    
+    
+    private void DeleteMovie(int id){
+
+        ActorLogic.Delete(id);
+        _actorsList = ActorLogic.GetAll().ToList();
+
+    }
+    
+
+}

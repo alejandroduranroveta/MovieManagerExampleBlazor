@@ -1,0 +1,18 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=44fcc962_002D311b_002D4712_002D84a6_002Df9321fa7d677/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddOneMovieTitleEmptyTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::231C0A07-7077-4090-99B6-37FBB50D9847::net6.0::BusinessLogicTest.MovieLogicTest.AddOneMovieTitleEmptyTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a74c4b1e_002D489f_002D420b_002Dab83_002Dc995d356b756/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddOneMovieTitleEmptyTest #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::231C0A07-7077-4090-99B6-37FBB50D9847::net6.0::BusinessLogicTest.MovieLogicTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b8a8cc44_002D10ef_002D4e7f_002D8f3f_002D407a229c604f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="MovieLogicTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::231C0A07-7077-4090-99B6-37FBB50D9847::net6.0::BusinessLogicTest.MovieLogicTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

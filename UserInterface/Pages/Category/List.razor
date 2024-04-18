@@ -1,0 +1,55 @@
+@page "/categories"
+
+<PageTitle>Category List</PageTitle>
+
+@using BusinessLogic
+@inject CategoryLogic CategoryLogic
+
+@using Domain
+
+<h1>
+    Category List
+    <a href="/categories/create"  class="btn btn-success btn-sm" style="float: right;margin-right: 40px;">Create +</a>
+</h1>
+
+<table class="table">
+    <thead>
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th></th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var category in _categories){
+        <tr>
+            <td>@category.Id</td>
+            <td>@category.Name</td>
+            <td>
+                <a class="btn btn-success btn-sm" href="categories/@category.Id/edit/">Editar</a>
+                <button class="btn btn-danger btn-sm" @onclick="(() => DeleteMovie(category.Id))" >Eliminar</button>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>
+
+@code{
+
+    private List<Category>? _categories = new List<Category>();
+
+    protected override void OnInitialized()
+    {
+        _categories = CategoryLogic.GetAll().ToList();
+    }
+    
+    
+    private void DeleteMovie(int id){
+
+        CategoryLogic.Delete(id);
+        _categories = CategoryLogic.GetAll().ToList();
+
+    }
+    
+
+}

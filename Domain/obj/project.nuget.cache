@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ukeOZzysuuNZofLL5dJ7PKmeOWggQZwNyDrI+b7HULOpkBjEfezsVTBjdZfmWWY11MfSxM3iinbxfAbCt7nbbg==",
+  "success": true,
+  "projectFilePath": "/Users/marioalejandroduran/Downloads/MovieManagerExampleBlazor/Domain/Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/marioalejandroduran/.nuget/packages/microsoft.netcore.app.ref/6.0.28/microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "/Users/marioalejandroduran/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.28/microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
