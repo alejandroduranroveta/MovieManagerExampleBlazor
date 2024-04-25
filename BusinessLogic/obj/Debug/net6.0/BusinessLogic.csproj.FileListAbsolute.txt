@@ -117,3 +117,4 @@
 /Users/marioalejandroduran/Downloads/MovieManagerExampleBlazor/BusinessLogic/obj/Debug/net6.0/refint/BusinessLogic.dll
 /Users/marioalejandroduran/Downloads/MovieManagerExampleBlazor/BusinessLogic/obj/Debug/net6.0/BusinessLogic.pdb
 /Users/marioalejandroduran/Downloads/MovieManagerExampleBlazor/BusinessLogic/obj/Debug/net6.0/ref/BusinessLogic.dll
+/Users/marioalejandroduran/Downloads/MovieManagerExampleBlazor/BusinessLogic/obj/Debug/net6.0/BusinessLogic.sourcelink.json

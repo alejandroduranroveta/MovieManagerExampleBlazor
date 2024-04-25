@@ -212,3 +212,4 @@
 /Users/marioalejandroduran/Downloads/MovieManagerExampleBlazor/UserInterface/obj/Debug/net6.0/UserInterface.pdb
 /Users/marioalejandroduran/Downloads/MovieManagerExampleBlazor/UserInterface/obj/Debug/net6.0/UserInterface.genruntimeconfig.cache
 /Users/marioalejandroduran/Downloads/MovieManagerExampleBlazor/UserInterface/obj/Debug/net6.0/ref/UserInterface.dll
+/Users/marioalejandroduran/Downloads/MovieManagerExampleBlazor/UserInterface/obj/Debug/net6.0/UserInterface.sourcelink.json

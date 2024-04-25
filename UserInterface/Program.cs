@@ -12,13 +12,13 @@ builder.Services.AddServerSideBlazor();
 builder.Services.AddSingleton<IRepository<Movie>, MovieMemoryRepository>();
 builder.Services.AddSingleton<IRepository<Category>, CategoryMemoryRepository>();
 builder.Services.AddSingleton<IRepository<Actor>, ActorMemoryRepository>();
+builder.Services.AddSingleton<IRepository<User>, UserMemoryRepository>();
 
 builder.Services.AddSingleton<MovieLogic>();
 builder.Services.AddSingleton<ActorLogic>();
 builder.Services.AddSingleton<CategoryLogic>();
-
-
 builder.Services.AddSingleton<SessionLogic>();
+builder.Services.AddSingleton<CurrentUser>();
 
 var app = builder.Build();
 

@@ -103,3 +103,4 @@
 /Users/marioalejandroduran/Downloads/MovieManagerExampleBlazor/Repository/obj/Debug/net6.0/refint/Repository.dll
 /Users/marioalejandroduran/Downloads/MovieManagerExampleBlazor/Repository/obj/Debug/net6.0/Repository.pdb
 /Users/marioalejandroduran/Downloads/MovieManagerExampleBlazor/Repository/obj/Debug/net6.0/ref/Repository.dll
+/Users/marioalejandroduran/Downloads/MovieManagerExampleBlazor/Repository/obj/Debug/net6.0/Repository.sourcelink.json
