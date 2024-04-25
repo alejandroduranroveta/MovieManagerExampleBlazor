@@ -1,13 +1,16 @@
 @page "/movies/create/"
 
+
 <PageTitle>Create Movie</PageTitle>
 
 @using BusinessLogic
 @using Domain
+@using UserInterface.Data
 
 @inject MovieLogic MovieLogic
 @inject CategoryLogic CategoryLogic
 @inject NavigationManager NavigationManager
+@inject SessionLogic CurrentUser
 
 <style>
     .error-message {
@@ -17,43 +20,45 @@
         margin-top: 10px;
     }
 </style>
+@if (CurrentUser.CurrentUser != null)
+{
+    <h1>Create Movie</h1>
+    <form>
+        <div class="form-group">
+            <label for="title">Título</label>
+            <input type="text" class="form-control" id="title" @bind="currentMovie.Title"/>
+        </div>
+        <div class="form-group">
+            <label for="director">Director</label>
+            <input type="text" class="form-control" id="director" @bind="currentMovie.Director"/>
+        </div>
+        <div class="form-group">
+            <label for="releaseYear">Año de lanzamiento</label>
+            <input type="number" class="form-control" id="releaseYear" @bind="currentMovie.ReleaseYear"/>
+        </div>
+        <div class="form-group">
+            <label for="Category">Category</label>
 
-<h1>Create Movie</h1>
-<form>
-    <div class="form-group">
-        <label for="title">Título</label>
-        <input type="text" class="form-control" id="title" @bind="currentMovie.Title" />
-    </div>
-    <div class="form-group">
-        <label for="director">Director</label>
-        <input type="text" class="form-control" id="director" @bind="currentMovie.Director" />
-    </div>
-    <div class="form-group">
-        <label for="releaseYear">Año de lanzamiento</label>
-        <input type="number" class="form-control" id="releaseYear" @bind="currentMovie.ReleaseYear" />
-    </div>
-    <div class="form-group">
-        <label for="Category">Category</label>
-        
-        <select class="form-control" value="@selectedCategoryId" @onchange="OnChangeCategory" >
-            <option disable selected value="">Select Category</option>
-            @foreach (var category in _categories){
-                <option value="@category.Id" selected="@(category.Id==selectedCategoryId)" >
-                    @category.Name
-                </option>
-            }
-        </select>
-    
-    </div>
+            <select class="form-control" value="@selectedCategoryId" @onchange="OnChangeCategory">
+                <option disable selected value="">Select Category</option>
+                @foreach (var category in _categories)
+                {
+                    <option value="@category.Id" selected="@(category.Id == selectedCategoryId)">
+                        @category.Name
+                    </option>
+                }
+            </select>
 
-    <button type="button" class="btn btn-primary" @onclick="SaveChanges">Guardar cambios</button>
-    <a href="/movies">Cancelar</a>
+        </div>
 
-</form>
+        <button type="button" class="btn btn-primary" @onclick="SaveChanges">Guardar cambios</button>
+        <a href="/movies">Cancelar</a>
 
-<div class="error-message">@errorMessage</div>
+    </form>
 
+    <div class="error-message">@errorMessage</div>
 
+}
 
 
 @code {

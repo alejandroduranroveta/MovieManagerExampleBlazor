@@ -6,7 +6,11 @@
 @inject ActorLogic ActorLogic
 
 @using Domain
+@using UserInterface.Data
+@inject SessionLogic CurrentUser
 
+@if (CurrentUser.CurrentUser != null)
+{
 <h1>
     Actor List
     <a href="/actors/create"  class="btn btn-success btn-sm" style="float: right;margin-right: 40px;">Create +</a>
@@ -44,14 +48,16 @@
     {
         _actorsList = ActorLogic.GetAll().ToList();
     }
-    
-    
-    private void DeleteMovie(int id){
+
+
+    private void DeleteMovie(int id)
+    {
 
         ActorLogic.Delete(id);
         _actorsList = ActorLogic.GetAll().ToList();
 
     }
-    
+
+}
 
 }

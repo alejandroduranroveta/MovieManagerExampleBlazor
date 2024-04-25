@@ -5,11 +5,10 @@
 
 @inject SessionLogic SessionLogic
 @inject NavigationManager NavigationManager
-@inject CurrentUser CurrentUser
 
 <PageTitle>Index</PageTitle>
 
-<h1>Welcome @(CurrentUser.User?.Username ?? "")!</h1>
+<h1>Welcome @(SessionLogic.CurrentUser?.Username ?? "")!</h1>
 
 Welcome to your new app.
 
@@ -31,14 +30,11 @@ Welcome to your new app.
     }
     
     private void Login(){
-        //valido el usuario y me lo traigo con la logica de usuario
-        SessionLogic.Login(new User());
-        
         NavigationManager.NavigateTo("/login");
     }
     
     private void LogOut(){
-        CurrentUser.LogOut();
+        SessionLogic.LogOut();
         NavigationManager.NavigateTo("/", true);
     }
     

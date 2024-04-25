@@ -6,7 +6,11 @@
 @inject CategoryLogic CategoryLogic
 
 @using Domain
+@using UserInterface.Data
+@inject SessionLogic CurrentUser
 
+@if (CurrentUser.CurrentUser != null)
+{
 <h1>
     Category List
     <a href="/categories/create"  class="btn btn-success btn-sm" style="float: right;margin-right: 40px;">Create +</a>
@@ -42,14 +46,16 @@
     {
         _categories = CategoryLogic.GetAll().ToList();
     }
-    
-    
-    private void DeleteMovie(int id){
+
+
+    private void DeleteMovie(int id)
+    {
 
         CategoryLogic.Delete(id);
         _categories = CategoryLogic.GetAll().ToList();
 
     }
-    
+
+}
 
 }

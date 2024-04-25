@@ -7,46 +7,53 @@
 @inject MovieLogic MovieLogic
 
 @using Domain
+@using UserInterface.Data
+@inject SessionLogic CurrentUser
 
-<h1>
-    Movies List
-   
-</h1>
-<h1>
-     <a href="/movies/create"  class="btn btn-success btn-sm" style="float: right;margin-right: 40px;">Create +</a>
-</h1>
+@if (CurrentUser.CurrentUser != null)
+{
+    <h1>
+        Movies List
 
-<table class="table">
-    <thead>
-    <tr>
-        <th>Title</th>
-        <th>Director</th>
-        <th>Release Year</th>
-        <th>Category</th>
-        <th>Acciones</th>
-    </tr>
-    </thead>
-    <tbody>
-    @foreach (var movie in _moviesList){
+    </h1>
+    <h1>
+        <a href="/movies/create" class="btn btn-success btn-sm" style="float: right;margin-right: 40px;">Create +</a>
+    </h1>
+
+    <table class="table">
+        <thead>
         <tr>
-            <td>@movie.Title</td>
-            <td>@movie.Director</td>
-            <td>@movie.ReleaseYear</td>
-            <td>
-                @if(@movie.Category != null){
-                    @movie.Category.Name
-            
-                }
-            
-            </td>
-            <td>
-                <a class="btn btn-success btn-sm" href="movies/@movie.Id/edit/">Editar</a>
-                <button class="btn btn-danger btn-sm" @onclick="(() => DeleteMovie(movie.Id))" >Eliminar</button>
-            </td>
+            <th>Title</th>
+            <th>Director</th>
+            <th>Release Year</th>
+            <th>Category</th>
+            <th>Acciones</th>
         </tr>
-    }
-    </tbody>
-</table>
+        </thead>
+        <tbody>
+        @foreach (var movie in _moviesList)
+        {
+            <tr>
+                <td>@movie.Title</td>
+                <td>@movie.Director</td>
+                <td>@movie.ReleaseYear</td>
+                <td>
+                    @if (@movie.Category != null)
+                    {
+                        @movie.Category.Name
+
+                    }
+
+                </td>
+                <td>
+                    <a class="btn btn-success btn-sm" href="movies/@movie.Id/edit/">Editar</a>
+                    <button class="btn btn-danger btn-sm" @onclick="(() => DeleteMovie(movie.Id))">Eliminar</button>
+                </td>
+            </tr>
+        }
+        </tbody>
+    </table>
+}
 
 @code{
 

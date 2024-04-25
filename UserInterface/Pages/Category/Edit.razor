@@ -4,10 +4,14 @@
 
 @using BusinessLogic
 @using Domain
+@using UserInterface.Data
 
 @inject CategoryLogic CategoryLogic
 @inject NavigationManager NavigationManager
+@inject SessionLogic CurrentUser
 
+@if (CurrentUser.CurrentUser != null)
+{
 <form>
     <div class="form-group">
             <label for="releaseYear">Id</label>
@@ -26,20 +30,23 @@
 
 @code {
 
-    [Parameter]
-    public int Id { get; set; }
+    [Parameter] public int Id { get; set; }
 
     private Category? currentCategory;
 
-    protected override void OnInitialized(){
+    protected override void OnInitialized()
+    {
 
         currentCategory = CategoryLogic.FindById(Id);
     }
 
 
-    private void SaveChanges(){
+    private void SaveChanges()
+    {
         CategoryLogic.Update(currentCategory);
         NavigationManager.NavigateTo("/categories");
     }
+
+}
 
 }

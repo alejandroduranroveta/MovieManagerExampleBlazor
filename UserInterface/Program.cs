@@ -18,7 +18,6 @@ builder.Services.AddSingleton<MovieLogic>();
 builder.Services.AddSingleton<ActorLogic>();
 builder.Services.AddSingleton<CategoryLogic>();
 builder.Services.AddSingleton<SessionLogic>();
-builder.Services.AddSingleton<CurrentUser>();
 
 var app = builder.Build();
 
